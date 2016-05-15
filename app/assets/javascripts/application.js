@@ -15,7 +15,8 @@
 //= require turbolinks
 
 
-
+//= require bootstrap.js
 //= require jquery.mmenu.min.all.js
 //= require jquery.flexslider.js
 //= require o-script.js
+
